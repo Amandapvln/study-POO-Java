@@ -17,7 +17,7 @@ O projeto está estruturado com as seguintes classes:
 - `Carro`: Subclasse de `Veiculo` que adiciona o atributo `numeroDePortas`.
 - `Moto`: Subclasse de `Veiculo` que adiciona o atributo `temSidecar`.
 
-![Diagrama de Classes](docs/ClassDiagram.png)
+<img src="/car/docs/ClassDiagram.png">
 
 ## Tecnologias Utilizadas
 
